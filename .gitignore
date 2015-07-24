@@ -36,7 +36,7 @@ Thumbs.db
 # Non-free packages                 #
 # (see ReadMe-to-enable-speech.txt) #
 # ================================= #
-Assets/Plugins/Android/ttunityplugin.jar
-Assets/Plugins/Android/ttunityplugin.jar.meta
+Assets/Plugins/Android/ttsunityplugin.jar
+Assets/Plugins/Android/ttsunityplugin.jar.meta
 Assets/Plugins/UnityAndroidTTSPlugin.dll
 Assets/Takohi/

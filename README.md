@@ -12,7 +12,7 @@ https://www.assetstore.unity3d.com/en/#!/content/21772
 
 Installing that package will create:
 
-	Assets/Plugins/Android/ttunityplugin.jar
+	Assets/Plugins/Android/ttsunityplugin.jar
 	Assets/Plugins/UnityAndroidTTSPlugin.dll
 	Assets/Takohi/*
 
