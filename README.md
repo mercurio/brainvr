@@ -4,6 +4,8 @@ Unity3D / Google Cardboard Android app for viewing a model of the human brain
 Available for free on Google Play <a target="_blank" href="https://play.google.com/store/apps/details?id=org.thyrd.brainvr">
 <img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" /> </a>
 
+More info on the data at <a target="_blank" href="http://thyrd.info/brainvr">thyrd.info/brainvr</a>
+
 ## Building Brain VR
 Brain VR uses the Takohi Games Text to Speech plugin,
 which is $2 from the Unity store:
