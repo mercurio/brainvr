@@ -1,8 +1,7 @@
 # brainvr
 Unity3D / Google Cardboard Android app for viewing a model of the human brain
 
-Available for free on Google Play <a target="_blank" href="https://play.google.com/store/apps/details?id=org.thyrd.brainvr">
-<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" /> </a>
+APK available <a href="http://www.thyrd.org/ti/brainvr/brainvr-1.0.2.apk">here</a>
 
 More info on the data at <a target="_blank" href="http://thyrd.info/brainvr">thyrd.info/brainvr</a>
 
